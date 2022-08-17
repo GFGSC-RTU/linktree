@@ -29,4 +29,9 @@ export const links = [
     link: "https://example.com",
     image: "./assets/gmail.png",
   },
+  {
+    name: "Github",
+    link: "https://example.com",
+    image: "./assets/github.png",
+  },
 ];
