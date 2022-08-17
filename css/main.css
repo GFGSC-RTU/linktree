@@ -7,7 +7,7 @@ body {
   font-family: "Montserrat", sans-serif;
   background: url("./../assets/cover-image.png");
   background-repeat: repeat-x;
-  background-size: 70%;
+  background-size: 50%;
   background-position: center;
 }
 main {
@@ -41,7 +41,7 @@ a {
 }
 .link {
   height: 2.75rem;
-  width: 500px;
+  width: 400px;
 
   display: flex;
   align-items: center;
