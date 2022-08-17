@@ -8,7 +8,7 @@ const linkContainer = document.getElementById("links");
 
 function addLink(name, link, image) {
   return `
-  <a href="${link}" class="link">
+  <a href="${link}" class="link" target="blank">
     <img src="${image}"/>
     <span>${name}  </span>
     <img class="linkIcon" src="./assets/link-solid.svg" alt=""/>

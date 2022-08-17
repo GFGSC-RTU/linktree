@@ -21,8 +21,17 @@ a {
   font-size: 1.125rem;
   font-weight: 600;
 }
-.logo img {
-  width: 250px;
+.logo {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+}
+.logoContainer {
+  margin: 1rem 0;
+
+  position: relative;
+  height: 225px;
   aspect-ratio: 1;
   border-radius: 50%;
 }
