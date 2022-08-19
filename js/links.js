@@ -26,7 +26,7 @@ export const links = [
   },
   {
     name: "E-mail",
-    link: "mailto:gfgstudentchapter.rtu@gmail.com",
+    link: "gfgstudentchapter.rtu@gmail.com",
     image: "./assets/gmail.png",
   },
   {
