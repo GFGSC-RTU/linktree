@@ -21,7 +21,7 @@ export const links = [
   },
   {
     name: "Discord",
-    link: "https://example.com",
+    link: "https://discord.gg/k7y5uc76",
     image: "./assets/discord.png",
   },
   {
